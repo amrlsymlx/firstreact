@@ -44,6 +44,7 @@ function Welcome() {
             </div>
             
             <ConsumeCatalogAPI></ConsumeCatalogAPI>
+
         </div>
     );
 }

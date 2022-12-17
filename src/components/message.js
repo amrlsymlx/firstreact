@@ -1,6 +1,6 @@
 
 import React, { useState } from 'react';
-import ConsumeCatalogAPI from './api';
+// import ConsumeCatalogAPI from './api';
 import MessageSize from './messagesize';
 
 function Message(props) {
